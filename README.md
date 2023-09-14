@@ -12,5 +12,5 @@
 
 ![GIF](relative-path-to-your-gif.gif)
 
-[![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen)](https://www.hackerrank.com/your-profile)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen)](https://www.hackerrank.com/uttam333)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/uttam333)
