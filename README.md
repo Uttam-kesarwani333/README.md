@@ -1,15 +1,16 @@
 ### Hi there, I'm Uttam Kesarwani! 👋
 
-* 👂 Pronouns: He/Him
-* 🔭 I’m currently working on Web Development Projects
-* 🌱 I’m currently learning Advanced JavaScript and React.js
-* 🤝 I’m looking to collaborate on Open Source Web Projects
-* 🤔 I’m looking for help with Problem Solving and Data Structures
-* 💬 Ask me about Web Development and Programming
-* 📫 How to reach me: uttamkesarwani.5459@gmail.com
-* ❤️ I love Coding and Creating Web Experiences
-* ⚡ Fun fact: I can solve 250+ problems on various online platforms!
+* 👂 Pronouns: [Your Pronouns]
+* 🔭 I’m currently working on [Current Project or Company Name]
+* 🌱 I’m currently learning [Technology or Skill]
+* 🤝 I’m looking to collaborate on [Open Source Project or Interest]
+* 🤔 I’m looking for help with [Specific Task or Challenge]
+* 💬 Ask me about [Your Area of Expertise or Interest]
+* 📫 How to reach me: [uttamkesarwani.5459@gmail.com]
+* ❤️ I love [Web Development and Problem Solving]
+* ⚡ Fun fact: [I once solved 250+ problems on various online platforms!]
 
 ![GIF](relative-path-to-your-gif.gif)
 
-[![HackerRank Badge](https://img.shields.io
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-5%20Stars-brightgreen)](https://www.hackerrank.com/your-profile)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
